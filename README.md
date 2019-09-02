@@ -35,6 +35,7 @@ Software:
 		- cupy (if you want to run transport on GPU. Might not work on all platforms)
 - GULP for windows if you want to be able to use relaxation. This can be downloaded for free for academics at https://nanochemistry.curtin.edu.au/gulp/request.cfm?rel=download
 Once downloaded, add the folder to ".\VRmolecularBuilderV2\Content\ExternalScripts\" and edit the "environ" commands in "ASEscriptOnServer.py" to match your version of Gulp.
+-Git LFS : A lot of the files in intermediate and binaries are fairly large. We use Git LFS to work around the issue.
 
 
 #Usage
