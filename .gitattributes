@@ -1,0 +1,2 @@
+Binaries/** filter=lfs diff=lfs merge=lfs -text
+Intermediate/** filter=lfs diff=lfs merge=lfs -text

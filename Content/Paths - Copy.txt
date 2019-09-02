@@ -1,0 +1,5 @@
+Path To Napura Simulation Folder:
+C:/Users/DeViNa/Documents/Narupa/narupa-server/bin/debug/Assets/Simulations/VR Demos/
+
+Path To NapuraXR:
+C:/Users/DeViNa/Documents/Narupa/Narupa.bat

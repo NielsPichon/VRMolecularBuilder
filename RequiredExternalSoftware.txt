@@ -1,0 +1,11 @@
+List of required external softwares
+- Python (Anaconda distribution or else openMM ans ASE won't work)
+- NapuraXR
+- ASE (pip install not conda)
+- GULP (use 4.0 PC windows download from GULP website as it comes with exe pre compiled)
+- MS MPI and add the exec to your path adding a registry key HKey_LocalMachine\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\myexe.exe with default path set to the exe location
+
+if going to use OpenMM ForceFields in Narupa
+- OpenBabel
+- OpenMM (to be installed from conda)
+
